@@ -67,3 +67,4 @@ IPBC is a **next-generation decentralized currency** designed to fix the fundame
 ---
 
 For developers and contributors, check out our latest updates at [GitHub Repository](https://github.com/psdurco/IPBC). Let's build the **future of decentralized finance and storage** together! 🚀
+[License](license.md)
