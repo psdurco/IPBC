@@ -6,6 +6,17 @@ IPBC (InterPlanetary BlockChain) is an innovative cryptocurrency concept that le
 
 Unlike traditional blockchains, IPBC becomes lighter and faster as more users adopt the technology. Each user is not only responsible for their wallet keys but also for their own blockchain, ensuring full control over their data. Imagine a global internet blackout—where would your Bitcoins be? With IPBC, the protocol is designed to function even offline, as a smartphone can act as an IPFS server, enabling transactions between users without requiring a centralized network. This makes IPBC a truly resilient and self-sustaining financial system.
 
+### **📖 Articles on IPBC**  
+
+To better understand the concepts and principles behind **IPBC**, check out our detailed articles:  
+
+📌 [**What defines an IPBC system?**](articles/what-defines-an-ipbc-system.md)  
+📌 [**Why doesn’t IPBC require transaction fees?**](articles/why-ipbc-does-not-require-transaction-fees.md)  
+📌 [**How does IPBC work offline?**](articles/how-ipbc-works-offline.md)  
+📌 [**The relationship between IPFS and IPBC**](articles/the-relationship-between-ipfs-and-ipbc.md)  
+📌 [**IPBC vs. Bitcoin: A new paradigm**](articles/ipbc-vs-bitcoin-a-new-paradigm.md)  
+
+
 ## Why IPBC Over Bitcoin?
 
 Bitcoin revolutionized finance by introducing a decentralized, peer-to-peer monetary system. However, it has fundamental limitations that hinder mass adoption and efficiency:
