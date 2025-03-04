@@ -1,8 +1,8 @@
-# IPBC - InterPlanetary Blockchain
+# IPBC - InterPlanetary BlockChain
 
 ## Introduction
 
-IPBC (InterPlanetary Blockchain) is an innovative cryptocurrency concept that leverages IPFS (InterPlanetary File System) to decentralize not only transactions but also storage, drastically reducing the energy consumption and scalability limitations of traditional blockchain networks like Bitcoin.
+IPBC (InterPlanetary BlockChain) is an innovative cryptocurrency concept that leverages IPFS (InterPlanetary File System) to decentralize not only transactions but also storage, drastically reducing the energy consumption and scalability limitations of traditional blockchain networks like Bitcoin.
 
 Unlike traditional blockchains, IPBC becomes lighter and faster as more users adopt the technology. Each user is not only responsible for their wallet keys but also for their own blockchain, ensuring full control over their data. Imagine a global internet blackout—where would your Bitcoins be? With IPBC, the protocol is designed to function even offline, as a smartphone can act as an IPFS server, enabling transactions between users without requiring a centralized network. This makes IPBC a truly resilient and self-sustaining financial system.
 
@@ -10,7 +10,7 @@ Unlike traditional blockchains, IPBC becomes lighter and faster as more users ad
 
 Bitcoin revolutionized finance by introducing a decentralized, peer-to-peer monetary system. However, it has fundamental limitations that hinder mass adoption and efficiency:
 
-| Feature               | IPBC (InterPlanetary Blockchain) | Bitcoin (BTC)           |
+| Feature               | IPBC (InterPlanetary BlockChain) | Bitcoin (BTC)           |
 | --------------------- | ------------------------------------- | ----------------------- |
 | **Consensus**         | PoC (Proof of Content)                | PoW (Proof of Work)     |
 | **Energy Use**        | Low (Minimal computational needs)     | Extremely High          |
@@ -35,6 +35,7 @@ IPBC introduces a unique **Proof of Content (PoC)** system that validates transa
 3. **IPFS Storage & Retrieval**: All blockchain data is stored and fetched through a distributed IPFS-based structure.
 4. **Node Participation**: Nodes stake IPBC coins and contribute resources to ensure network stability.
 5. **Consensus and Finalization**: Transactions are finalized and recorded in a lightweight ledger distributed across the IPFS network.
+6. **No Fees**: In **IPBC**, transactions are validated collaboratively, eliminating the need for fees or mining rewards. To send a transaction, the user **must validate two other transactions**, ensuring network security and continuity. Since users already cover the costs of **devices, internet, and storage**, there is no reason for additional transaction fees. This model is similar to **IOTA**, but without financial incentives or costs associated with "GAS" or mining.
 
 ## Advantages of PoC Over PoW & PoS
 
