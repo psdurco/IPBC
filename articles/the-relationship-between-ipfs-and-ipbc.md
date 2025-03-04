@@ -2,7 +2,9 @@
 
 Traditional blockchains like **Bitcoin and Ethereum** store their data **linearly and redundantly** across thousands of nodes. While this model has worked so far, it has **critical problems** related to scalability, cost, and efficiency.  
 
-On the other hand, **IPFS (InterPlanetary File System)** offers a **fully decentralized storage system**, allowing data to be distributed and accessed efficiently on a global scale.  
+On the other hand, **IPFS (InterPlanetary File System)** is built upon the same fundamental principles as peer-to-peer (P2P) file-sharing technologies such as BitTorrent, uTorrent, and eMule. These protocols distribute data across multiple nodes, ensuring redundancy and resilience while eliminating the need for a central server. Similarly, **IPFS** allows files and data to be stored and retrieved in a decentralized manner, creating a globally distributed storage system. This means that, instead of relying on a single entity to store and serve data, IPFS ensures that information is accessible from multiple sources, improving efficiency, availability, and censorship resistance. By leveraging this decentralized structure.
+
+The **IPBC** seamlessly integrates with **IPFS**, enabling blockchain data to be stored and shared in a fully decentralized manner among users. Each participant becomes an active node, ready to validate and distribute information, eliminating the need for energy-intensive centralized server infrastructures. In **IPBC**, users only share the data they possess, ensuring a highly efficient system with no unnecessary burden on network participants.  
 
 The **IPBC (InterPlanetary Blockchain)** integrates IPFS to eliminate blockchain scalability bottlenecks, ensuring that **each user maintains their own blockchain** instead of depending on centralized nodes.  
 
