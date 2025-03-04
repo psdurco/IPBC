@@ -4,6 +4,8 @@
 
 IPBC (InterPlanetary Blockchain Coin) is an innovative cryptocurrency concept that leverages IPFS (InterPlanetary File System) to decentralize not only transactions but also storage, drastically reducing the energy consumption and scalability limitations of traditional blockchain networks like Bitcoin.
 
+Unlike traditional blockchains, IPBC becomes lighter and faster as more users adopt the technology. Each user is not only responsible for their wallet keys but also for their own blockchain, ensuring full control over their data. Imagine a global internet blackout—where would your Bitcoins be? With IPBC, the protocol is designed to function even offline, as a smartphone can act as an IPFS server, enabling transactions between users without requiring a centralized network. This makes IPBC a truly resilient and self-sustaining financial system.
+
 ## Why IPBC Over Bitcoin?
 
 Bitcoin revolutionized finance by introducing a decentralized, peer-to-peer monetary system. However, it has fundamental limitations that hinder mass adoption and efficiency:
@@ -64,5 +66,4 @@ IPBC is a **next-generation decentralized currency** designed to fix the fundame
 
 ---
 
-For developers and contributors, check out our latest updates at [GitHub Repository](#). Let's build the **future of decentralized finance and storage** together! 🚀
-
+For developers and contributors, check out our latest updates at [GitHub Repository](https://github.com/psdurco/IPBC). Let's build the **future of decentralized finance and storage** together! 🚀
