@@ -1,22 +1,4 @@
-## **🚀 IPBC + IPFS = Uma Blockchain Descentralizada de Verdade**  
-
-Ao combinar a flexibilidade do **IPFS** com a **eficiência do IPBC**, temos um sistema que:  
-🔹 **Reduz drasticamente o tamanho das blockchains individuais**.  
-🔹 **Elimina intermediários no armazenamento e validação de transações**.  
-🔹 **Permite que cada usuário tenha controle total sobre sua própria blockchain**.  
-🔹 **Evita censura e restrições, pois os dados não ficam centralizados**.  
-
-Isso significa que, enquanto blockchains como o **Ethereum** ainda lutam contra taxas altas e gargalos de escalabilidade, **o IPBC cresce de forma proporcional à adoção**, tornando-se **mais rápido e eficiente conforme mais usuários entram na rede**.  
-
-O **IPFS não é apenas uma peça complementar do IPBC – ele é o pilar fundamental que permite que ele exista**.  
-
-Se blockchains como Bitcoin são **prédios pesados e inflexíveis**, **o IPBC é uma cidade modular, onde cada pessoa constrói sua própria infraestrutura conforme necessário**.  
-
-E isso **é o futuro da descentralização.** 🚀  
-
----
-
-# **📌 The Relationship Between IPFS and IPBC**  
+## **📌 The Relationship Between IPFS and IPBC**  
 
 Traditional blockchains like **Bitcoin and Ethereum** store their data **linearly and redundantly** across thousands of nodes. While this model has worked so far, it has **critical problems** related to scalability, cost, and efficiency.  
 
